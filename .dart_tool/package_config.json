@@ -56,6 +56,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "fixnum",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/tools/flutter/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -63,7 +69,7 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -75,9 +81,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "leak_tracker",
@@ -99,9 +105,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/lints-3.0.0",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/lints-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "matcher",
@@ -200,6 +206,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sqflite",
       "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.3.3+1",
       "packageUri": "lib/",
@@ -255,9 +267,9 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7",
+      "rootUri": "file:///C:/Users/vpi/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-4.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "vector_math",
@@ -290,7 +302,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-23T18:46:07.997058Z",
+  "generated": "2024-05-23T18:49:55.374738Z",
   "generator": "pub",
   "generatorVersion": "3.3.2"
 }
